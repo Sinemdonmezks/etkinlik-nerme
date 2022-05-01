@@ -1,1 +1,1 @@
-# etkinlik-nerme
+www.patika.dev
